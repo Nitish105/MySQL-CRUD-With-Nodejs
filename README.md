@@ -2,7 +2,7 @@
 Tech Stack: 
 * Backend: Nodejs, Express
 * Database: MySQL
-* Tool: POSTMAN
+* Tool: POSTMAN, VS Code
 
 ### CRUD Operations
 1) GET ALL stdudent data from MySQL database.
